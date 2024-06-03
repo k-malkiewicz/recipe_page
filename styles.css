@@ -39,7 +39,7 @@ section {
 }
 
 h1, h2 {
-    color: var(--clr-font-2);
+    color: var(--clr-accent);
     margin: 0;
     font-weight: 400;
     line-height: 100%;
