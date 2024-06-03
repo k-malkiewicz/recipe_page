@@ -178,4 +178,8 @@ table td {
     h1 {
         font-size: 36px;
     }
+
+    img {
+        border-radius: 0px;
+    }
 }
